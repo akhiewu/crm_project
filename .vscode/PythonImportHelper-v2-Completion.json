@@ -1,0 +1,1146 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "django_filters",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django_filters",
+        "description": "django_filters",
+        "detail": "django_filters",
+        "documentation": {}
+    },
+    {
+        "label": "ModelForm",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "crm1.accounts.migrations.0001_initial",
+        "description": "crm1.accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Customer',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=200, null=True)),",
+        "detail": "crm1.accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "crm1.accounts.migrations.0002_order",
+        "description": "crm1.accounts.migrations.0002_order",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Order',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('product', models.CharField(max_length=200, null=True)),",
+        "detail": "crm1.accounts.migrations.0002_order",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "crm1.accounts.migrations.0003_order_customer",
+        "description": "crm1.accounts.migrations.0003_order_customer",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0002_order'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='order',\n            name='customer',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, to='accounts.Customer'),\n        ),",
+        "detail": "crm1.accounts.migrations.0003_order_customer",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "crm1.accounts.migrations.0004_auto_20191125_1335",
+        "description": "crm1.accounts.migrations.0004_auto_20191125_1335",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0003_order_customer'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Product',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=200, null=True)),",
+        "detail": "crm1.accounts.migrations.0004_auto_20191125_1335",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "crm1.accounts.migrations.0005_auto_20191125_1645",
+        "description": "crm1.accounts.migrations.0005_auto_20191125_1645",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0004_auto_20191125_1335'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='order',\n            name='status',\n            field=models.CharField(choices=[('Pending', 'Pending'), ('Out for delivery', 'Out for delivery'), ('Delived', 'Delived')], max_length=200, null=True),\n        ),",
+        "detail": "crm1.accounts.migrations.0005_auto_20191125_1645",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "crm1.accounts.apps",
+        "description": "crm1.accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    name = 'accounts'",
+        "detail": "crm1.accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "OrderFilter",
+        "kind": 6,
+        "importPath": "crm1.accounts.filters",
+        "description": "crm1.accounts.filters",
+        "peekOfCode": "class OrderFilter(django_filters.FilterSet):\n\tclass Meta:\n\t\tmodel = Order\n\t\tfields = '__all__'\n\t\texclude = ['customer', 'date_created']",
+        "detail": "crm1.accounts.filters",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "crm1.accounts.filters",
+        "description": "crm1.accounts.filters",
+        "peekOfCode": "\t\tmodel = Order\n\t\tfields = '__all__'\n\t\texclude = ['customer', 'date_created']",
+        "detail": "crm1.accounts.filters",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "crm1.accounts.filters",
+        "description": "crm1.accounts.filters",
+        "peekOfCode": "\t\tfields = '__all__'\n\t\texclude = ['customer', 'date_created']",
+        "detail": "crm1.accounts.filters",
+        "documentation": {}
+    },
+    {
+        "label": "\t\texclude",
+        "kind": 5,
+        "importPath": "crm1.accounts.filters",
+        "description": "crm1.accounts.filters",
+        "peekOfCode": "\t\texclude = ['customer', 'date_created']",
+        "detail": "crm1.accounts.filters",
+        "documentation": {}
+    },
+    {
+        "label": "OrderForm",
+        "kind": 6,
+        "importPath": "crm1.accounts.forms",
+        "description": "crm1.accounts.forms",
+        "peekOfCode": "class OrderForm(ModelForm):\n\tclass Meta:\n\t\tmodel = Order\n\t\tfields = '__all__'",
+        "detail": "crm1.accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "crm1.accounts.forms",
+        "description": "crm1.accounts.forms",
+        "peekOfCode": "\t\tmodel = Order\n\t\tfields = '__all__'",
+        "detail": "crm1.accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "crm1.accounts.forms",
+        "description": "crm1.accounts.forms",
+        "peekOfCode": "\t\tfields = '__all__'",
+        "detail": "crm1.accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "kind": 6,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "class Customer(models.Model):\n\tname = models.CharField(max_length=200, null=True)\n\tphone = models.CharField(max_length=200, null=True)\n\temail = models.CharField(max_length=200, null=True)\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\n\t@property\n\tdef orders(self):\n\t\torder_count = self.order_set.all().count()",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "class Product(models.Model):\n\tCATEGORY = (\n\t\t\t('Indoor', 'Indoor'),\n\t\t\t('Out Door', 'Out Door'),\n\t\t\t) \n\tname = models.CharField(max_length=200, null=True)\n\tprice = models.FloatField(null=True) \n\tcategory = models.CharField(max_length=200, null=True, choices=CATEGORY)\n\tdescription = models.TextField()\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "class Order(models.Model):\n\tSTATUS = (\n\t\t\t('Pending', 'Pending'),\n\t\t\t('Out for delivery', 'Out for delivery'),\n\t\t\t('Delivered', 'Delivered'),\n\t\t\t) \n\tcustomer = models.ForeignKey(Customer, on_delete= models.SET_NULL, null=True)\n\tproduct = models.ForeignKey(Product, on_delete= models.SET_NULL, null=True)\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tstatus = models.CharField(max_length=200, null=True, choices=STATUS)",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tname",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tname = models.CharField(max_length=200, null=True)\n\tphone = models.CharField(max_length=200, null=True)\n\temail = models.CharField(max_length=200, null=True)\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\n\t@property\n\tdef orders(self):\n\t\torder_count = self.order_set.all().count()\n\t\treturn str(order_count)",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tphone",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tphone = models.CharField(max_length=200, null=True)\n\temail = models.CharField(max_length=200, null=True)\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\n\t@property\n\tdef orders(self):\n\t\torder_count = self.order_set.all().count()\n\t\treturn str(order_count)\nclass Product(models.Model):",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\temail",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\temail = models.CharField(max_length=200, null=True)\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\n\t@property\n\tdef orders(self):\n\t\torder_count = self.order_set.all().count()\n\t\treturn str(order_count)\nclass Product(models.Model):\n\tCATEGORY = (",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tdate_created",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\n\t@property\n\tdef orders(self):\n\t\torder_count = self.order_set.all().count()\n\t\treturn str(order_count)\nclass Product(models.Model):\n\tCATEGORY = (\n\t\t\t('Indoor', 'Indoor'),",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t\torder_count",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\t\torder_count = self.order_set.all().count()\n\t\treturn str(order_count)\nclass Product(models.Model):\n\tCATEGORY = (\n\t\t\t('Indoor', 'Indoor'),\n\t\t\t('Out Door', 'Out Door'),\n\t\t\t) \n\tname = models.CharField(max_length=200, null=True)\n\tprice = models.FloatField(null=True) \n\tcategory = models.CharField(max_length=200, null=True, choices=CATEGORY)",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tCATEGORY",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tCATEGORY = (\n\t\t\t('Indoor', 'Indoor'),\n\t\t\t('Out Door', 'Out Door'),\n\t\t\t) \n\tname = models.CharField(max_length=200, null=True)\n\tprice = models.FloatField(null=True) \n\tcategory = models.CharField(max_length=200, null=True, choices=CATEGORY)\n\tdescription = models.TextField()\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tname",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tname = models.CharField(max_length=200, null=True)\n\tprice = models.FloatField(null=True) \n\tcategory = models.CharField(max_length=200, null=True, choices=CATEGORY)\n\tdescription = models.TextField()\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\nclass Order(models.Model):\n\tSTATUS = (\n\t\t\t('Pending', 'Pending'),",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tprice",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tprice = models.FloatField(null=True) \n\tcategory = models.CharField(max_length=200, null=True, choices=CATEGORY)\n\tdescription = models.TextField()\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\nclass Order(models.Model):\n\tSTATUS = (\n\t\t\t('Pending', 'Pending'),\n\t\t\t('Out for delivery', 'Out for delivery'),",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcategory",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tcategory = models.CharField(max_length=200, null=True, choices=CATEGORY)\n\tdescription = models.TextField()\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\nclass Order(models.Model):\n\tSTATUS = (\n\t\t\t('Pending', 'Pending'),\n\t\t\t('Out for delivery', 'Out for delivery'),\n\t\t\t('Delivered', 'Delivered'),",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tdescription",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tdescription = models.TextField()\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\nclass Order(models.Model):\n\tSTATUS = (\n\t\t\t('Pending', 'Pending'),\n\t\t\t('Out for delivery', 'Out for delivery'),\n\t\t\t('Delivered', 'Delivered'),\n\t\t\t) ",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tdate_created",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn self.name\nclass Order(models.Model):\n\tSTATUS = (\n\t\t\t('Pending', 'Pending'),\n\t\t\t('Out for delivery', 'Out for delivery'),\n\t\t\t('Delivered', 'Delivered'),\n\t\t\t) \n\tcustomer = models.ForeignKey(Customer, on_delete= models.SET_NULL, null=True)",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tSTATUS",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tSTATUS = (\n\t\t\t('Pending', 'Pending'),\n\t\t\t('Out for delivery', 'Out for delivery'),\n\t\t\t('Delivered', 'Delivered'),\n\t\t\t) \n\tcustomer = models.ForeignKey(Customer, on_delete= models.SET_NULL, null=True)\n\tproduct = models.ForeignKey(Product, on_delete= models.SET_NULL, null=True)\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tstatus = models.CharField(max_length=200, null=True, choices=STATUS)\n\tdef __str__(self):",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcustomer",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tcustomer = models.ForeignKey(Customer, on_delete= models.SET_NULL, null=True)\n\tproduct = models.ForeignKey(Product, on_delete= models.SET_NULL, null=True)\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tstatus = models.CharField(max_length=200, null=True, choices=STATUS)\n\tdef __str__(self):\n\t\treturn str(self.product)",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tproduct",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tproduct = models.ForeignKey(Product, on_delete= models.SET_NULL, null=True)\n\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tstatus = models.CharField(max_length=200, null=True, choices=STATUS)\n\tdef __str__(self):\n\t\treturn str(self.product)",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tdate_created",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tdate_created = models.DateTimeField(auto_now_add=True, null=True, blank=True)\n\tstatus = models.CharField(max_length=200, null=True, choices=STATUS)\n\tdef __str__(self):\n\t\treturn str(self.product)",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tstatus",
+        "kind": 5,
+        "importPath": "crm1.accounts.models",
+        "description": "crm1.accounts.models",
+        "peekOfCode": "\tstatus = models.CharField(max_length=200, null=True, choices=STATUS)\n\tdef __str__(self):\n\t\treturn str(self.product)",
+        "detail": "crm1.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "crm1.accounts.urls",
+        "description": "crm1.accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.dashBoard, name=\"dashboard\"),\n    path('products/', views.products, name=\"products\"),\n    path('customer/<str:pk>/', views.customer, name=\"customer\"),\n    #------------ (CREATE URLS) ------------\n    path('create_order/', views.createOrder, name=\"create_order\"),\n    #------------ (UPDATE URLS) ------------\n    path('update_order/<str:pk>/', views.updateOrder, name=\"update_order\"),\n    #------------ (UPDATE URLS) ------------\n    path('delete_order/<str:pk>/', views.deleteOrder, name=\"delete_order\"),",
+        "detail": "crm1.accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "dashBoard",
+        "kind": 2,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "def dashBoard(request):\n\torders = Order.objects.all().order_by('-status')[0:5]\n\tcustomers = Customer.objects.all()\n\ttotal_customers = customers.count()\n\ttotal_orders = Order.objects.all().count()\n\tdelivered = Order.objects.filter(status='Delivered').count()\n\tpending = Order.objects.filter(status='Pending').count()\n\tcontext = {'customers':customers, 'orders':orders,\n\t'total_customers':total_customers,'total_orders':total_orders, \n\t'delivered':delivered, 'pending':pending}",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "products",
+        "kind": 2,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "def products(request):\n\tproducts = Product.objects.all()\n\tcontext = {'products':products}\n\treturn render(request, 'accounts/products.html', context)\ndef customer(request, pk):\n\tcustomer = Customer.objects.get(id=pk)\n\torders = customer.order_set.all()\n\ttotal_orders = orders.count()\n\torderFilter = OrderFilter(request.GET, queryset=orders) \n\torders = orderFilter.qs",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "customer",
+        "kind": 2,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "def customer(request, pk):\n\tcustomer = Customer.objects.get(id=pk)\n\torders = customer.order_set.all()\n\ttotal_orders = orders.count()\n\torderFilter = OrderFilter(request.GET, queryset=orders) \n\torders = orderFilter.qs\n\tcontext = {'customer':customer, 'orders':orders, 'total_orders':total_orders,\n\t'filter':orderFilter}\n\treturn render(request, 'accounts/customer.html', context)\n#-------------------(CREATE VIEWS) -------------------",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "createOrder",
+        "kind": 2,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "def createOrder(request):\n\taction = 'create'\n\tform = OrderForm()\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\treturn redirect('/')\n\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "updateOrder",
+        "kind": 2,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "def updateOrder(request, pk):\n\taction = 'update'\n\torder = Order.objects.get(id=pk)\n\tform = OrderForm(instance=order)\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST, instance=order)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\treturn redirect('/customer/' + str(order.customer.id))\n\tcontext =  {'action':action, 'form':form}",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteOrder",
+        "kind": 2,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "def deleteOrder(request, pk):\n\torder = Order.objects.get(id=pk)\n\tif request.method == 'POST':\n\t\tcustomer_id = order.customer.id\n\t\tcustomer_url = '/customer/' + str(customer_id)\n\t\torder.delete()\n\t\treturn redirect(customer_url)\n\treturn render(request, 'accounts/delete_item.html', {'item':order})",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\torders",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\torders = Order.objects.all().order_by('-status')[0:5]\n\tcustomers = Customer.objects.all()\n\ttotal_customers = customers.count()\n\ttotal_orders = Order.objects.all().count()\n\tdelivered = Order.objects.filter(status='Delivered').count()\n\tpending = Order.objects.filter(status='Pending').count()\n\tcontext = {'customers':customers, 'orders':orders,\n\t'total_customers':total_customers,'total_orders':total_orders, \n\t'delivered':delivered, 'pending':pending}\n\treturn render(request, 'accounts/dashBoard.html', context)",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcustomers",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tcustomers = Customer.objects.all()\n\ttotal_customers = customers.count()\n\ttotal_orders = Order.objects.all().count()\n\tdelivered = Order.objects.filter(status='Delivered').count()\n\tpending = Order.objects.filter(status='Pending').count()\n\tcontext = {'customers':customers, 'orders':orders,\n\t'total_customers':total_customers,'total_orders':total_orders, \n\t'delivered':delivered, 'pending':pending}\n\treturn render(request, 'accounts/dashBoard.html', context)\ndef products(request):",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttotal_customers",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\ttotal_customers = customers.count()\n\ttotal_orders = Order.objects.all().count()\n\tdelivered = Order.objects.filter(status='Delivered').count()\n\tpending = Order.objects.filter(status='Pending').count()\n\tcontext = {'customers':customers, 'orders':orders,\n\t'total_customers':total_customers,'total_orders':total_orders, \n\t'delivered':delivered, 'pending':pending}\n\treturn render(request, 'accounts/dashBoard.html', context)\ndef products(request):\n\tproducts = Product.objects.all()",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttotal_orders",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\ttotal_orders = Order.objects.all().count()\n\tdelivered = Order.objects.filter(status='Delivered').count()\n\tpending = Order.objects.filter(status='Pending').count()\n\tcontext = {'customers':customers, 'orders':orders,\n\t'total_customers':total_customers,'total_orders':total_orders, \n\t'delivered':delivered, 'pending':pending}\n\treturn render(request, 'accounts/dashBoard.html', context)\ndef products(request):\n\tproducts = Product.objects.all()\n\tcontext = {'products':products}",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tdelivered",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tdelivered = Order.objects.filter(status='Delivered').count()\n\tpending = Order.objects.filter(status='Pending').count()\n\tcontext = {'customers':customers, 'orders':orders,\n\t'total_customers':total_customers,'total_orders':total_orders, \n\t'delivered':delivered, 'pending':pending}\n\treturn render(request, 'accounts/dashBoard.html', context)\ndef products(request):\n\tproducts = Product.objects.all()\n\tcontext = {'products':products}\n\treturn render(request, 'accounts/products.html', context)",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tpending",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tpending = Order.objects.filter(status='Pending').count()\n\tcontext = {'customers':customers, 'orders':orders,\n\t'total_customers':total_customers,'total_orders':total_orders, \n\t'delivered':delivered, 'pending':pending}\n\treturn render(request, 'accounts/dashBoard.html', context)\ndef products(request):\n\tproducts = Product.objects.all()\n\tcontext = {'products':products}\n\treturn render(request, 'accounts/products.html', context)\ndef customer(request, pk):",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tcontext = {'customers':customers, 'orders':orders,\n\t'total_customers':total_customers,'total_orders':total_orders, \n\t'delivered':delivered, 'pending':pending}\n\treturn render(request, 'accounts/dashBoard.html', context)\ndef products(request):\n\tproducts = Product.objects.all()\n\tcontext = {'products':products}\n\treturn render(request, 'accounts/products.html', context)\ndef customer(request, pk):\n\tcustomer = Customer.objects.get(id=pk)",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tproducts",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tproducts = Product.objects.all()\n\tcontext = {'products':products}\n\treturn render(request, 'accounts/products.html', context)\ndef customer(request, pk):\n\tcustomer = Customer.objects.get(id=pk)\n\torders = customer.order_set.all()\n\ttotal_orders = orders.count()\n\torderFilter = OrderFilter(request.GET, queryset=orders) \n\torders = orderFilter.qs\n\tcontext = {'customer':customer, 'orders':orders, 'total_orders':total_orders,",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tcontext = {'products':products}\n\treturn render(request, 'accounts/products.html', context)\ndef customer(request, pk):\n\tcustomer = Customer.objects.get(id=pk)\n\torders = customer.order_set.all()\n\ttotal_orders = orders.count()\n\torderFilter = OrderFilter(request.GET, queryset=orders) \n\torders = orderFilter.qs\n\tcontext = {'customer':customer, 'orders':orders, 'total_orders':total_orders,\n\t'filter':orderFilter}",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcustomer",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tcustomer = Customer.objects.get(id=pk)\n\torders = customer.order_set.all()\n\ttotal_orders = orders.count()\n\torderFilter = OrderFilter(request.GET, queryset=orders) \n\torders = orderFilter.qs\n\tcontext = {'customer':customer, 'orders':orders, 'total_orders':total_orders,\n\t'filter':orderFilter}\n\treturn render(request, 'accounts/customer.html', context)\n#-------------------(CREATE VIEWS) -------------------\ndef createOrder(request):",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\torders",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\torders = customer.order_set.all()\n\ttotal_orders = orders.count()\n\torderFilter = OrderFilter(request.GET, queryset=orders) \n\torders = orderFilter.qs\n\tcontext = {'customer':customer, 'orders':orders, 'total_orders':total_orders,\n\t'filter':orderFilter}\n\treturn render(request, 'accounts/customer.html', context)\n#-------------------(CREATE VIEWS) -------------------\ndef createOrder(request):\n\taction = 'create'",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttotal_orders",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\ttotal_orders = orders.count()\n\torderFilter = OrderFilter(request.GET, queryset=orders) \n\torders = orderFilter.qs\n\tcontext = {'customer':customer, 'orders':orders, 'total_orders':total_orders,\n\t'filter':orderFilter}\n\treturn render(request, 'accounts/customer.html', context)\n#-------------------(CREATE VIEWS) -------------------\ndef createOrder(request):\n\taction = 'create'\n\tform = OrderForm()",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\torderFilter",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\torderFilter = OrderFilter(request.GET, queryset=orders) \n\torders = orderFilter.qs\n\tcontext = {'customer':customer, 'orders':orders, 'total_orders':total_orders,\n\t'filter':orderFilter}\n\treturn render(request, 'accounts/customer.html', context)\n#-------------------(CREATE VIEWS) -------------------\ndef createOrder(request):\n\taction = 'create'\n\tform = OrderForm()\n\tif request.method == 'POST':",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\torders",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\torders = orderFilter.qs\n\tcontext = {'customer':customer, 'orders':orders, 'total_orders':total_orders,\n\t'filter':orderFilter}\n\treturn render(request, 'accounts/customer.html', context)\n#-------------------(CREATE VIEWS) -------------------\ndef createOrder(request):\n\taction = 'create'\n\tform = OrderForm()\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST)",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tcontext = {'customer':customer, 'orders':orders, 'total_orders':total_orders,\n\t'filter':orderFilter}\n\treturn render(request, 'accounts/customer.html', context)\n#-------------------(CREATE VIEWS) -------------------\ndef createOrder(request):\n\taction = 'create'\n\tform = OrderForm()\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST)\n\t\tif form.is_valid():",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\taction",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\taction = 'create'\n\tform = OrderForm()\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\treturn redirect('/')\n\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)\n#-------------------(UPDATE VIEWS) -------------------",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tform",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tform = OrderForm()\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\treturn redirect('/')\n\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)\n#-------------------(UPDATE VIEWS) -------------------\ndef updateOrder(request, pk):",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\t\tform = OrderForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\treturn redirect('/')\n\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)\n#-------------------(UPDATE VIEWS) -------------------\ndef updateOrder(request, pk):\n\taction = 'update'\n\torder = Order.objects.get(id=pk)",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)\n#-------------------(UPDATE VIEWS) -------------------\ndef updateOrder(request, pk):\n\taction = 'update'\n\torder = Order.objects.get(id=pk)\n\tform = OrderForm(instance=order)\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST, instance=order)\n\t\tif form.is_valid():",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\taction",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\taction = 'update'\n\torder = Order.objects.get(id=pk)\n\tform = OrderForm(instance=order)\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST, instance=order)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\treturn redirect('/customer/' + str(order.customer.id))\n\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\torder",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\torder = Order.objects.get(id=pk)\n\tform = OrderForm(instance=order)\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST, instance=order)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\treturn redirect('/customer/' + str(order.customer.id))\n\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)\n#-------------------(DELETE VIEWS) -------------------",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tform",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tform = OrderForm(instance=order)\n\tif request.method == 'POST':\n\t\tform = OrderForm(request.POST, instance=order)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\treturn redirect('/customer/' + str(order.customer.id))\n\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)\n#-------------------(DELETE VIEWS) -------------------\ndef deleteOrder(request, pk):",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\t\tform = OrderForm(request.POST, instance=order)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\treturn redirect('/customer/' + str(order.customer.id))\n\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)\n#-------------------(DELETE VIEWS) -------------------\ndef deleteOrder(request, pk):\n\torder = Order.objects.get(id=pk)\n\tif request.method == 'POST':",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\tcontext =  {'action':action, 'form':form}\n\treturn render(request, 'accounts/order_form.html', context)\n#-------------------(DELETE VIEWS) -------------------\ndef deleteOrder(request, pk):\n\torder = Order.objects.get(id=pk)\n\tif request.method == 'POST':\n\t\tcustomer_id = order.customer.id\n\t\tcustomer_url = '/customer/' + str(customer_id)\n\t\torder.delete()\n\t\treturn redirect(customer_url)",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\torder",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\torder = Order.objects.get(id=pk)\n\tif request.method == 'POST':\n\t\tcustomer_id = order.customer.id\n\t\tcustomer_url = '/customer/' + str(customer_id)\n\t\torder.delete()\n\t\treturn redirect(customer_url)\n\treturn render(request, 'accounts/delete_item.html', {'item':order})",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcustomer_id",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\t\tcustomer_id = order.customer.id\n\t\tcustomer_url = '/customer/' + str(customer_id)\n\t\torder.delete()\n\t\treturn redirect(customer_url)\n\treturn render(request, 'accounts/delete_item.html', {'item':order})",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcustomer_url",
+        "kind": 5,
+        "importPath": "crm1.accounts.views",
+        "description": "crm1.accounts.views",
+        "peekOfCode": "\t\tcustomer_url = '/customer/' + str(customer_id)\n\t\torder.delete()\n\t\treturn redirect(customer_url)\n\treturn render(request, 'accounts/delete_item.html', {'item':order})",
+        "detail": "crm1.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crm1.crm1.asgi",
+        "description": "crm1.crm1.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "crm1.crm1.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-9825#qal4(e5$(jn7izm_m55^!^(j^r@%t&^_ity8cqvm7t!)7\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-9825#qal4(e5$(jn7izm_m55^!^(j^r@%t&^_ity8cqvm7t!)7\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"accounts\",",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"accounts\",\n    \"widget_tweaks\",\n]",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"crm1.urls\"",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "ROOT_URLCONF = \"crm1.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"crm1.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static')",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static')\n]",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static')\n]\n# Default primary key field type",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static')\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static')\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "MEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static')\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'static')\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "crm1.crm1.settings",
+        "description": "crm1.crm1.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "crm1.crm1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "crm1.crm1.urls",
+        "description": "crm1.crm1.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('accounts.urls')),\n]",
+        "detail": "crm1.crm1.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crm1.crm1.wsgi",
+        "description": "crm1.crm1.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "crm1.crm1.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "crm1.manage",
+        "description": "crm1.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"crm1.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "crm1.manage",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    }
+]
